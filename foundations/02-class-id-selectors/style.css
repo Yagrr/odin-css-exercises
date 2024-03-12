@@ -1,0 +1,20 @@
+.class1 {
+    background-color: #ffb3b3;
+    font-family: Dejavu Sans, Verdana, sans-serif;
+    font-weight:500;
+}
+
+#id1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.class1.cooler {
+    font-size: 24px;
+}
+
+#id2 {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
